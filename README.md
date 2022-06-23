@@ -1,15 +1,15 @@
-<h1 align="center">Ciao, sono Daniel Mazzilli</h1>
+<h1 align="center">Benvenuti! Ciao, sono Daniel Mazzilli</h1>
 <h3 align="center">Full Stack Web Developer in the making</h3>
 
-- 🔭 I’m currently working on **Pursuit curriculum and Codewars challenges**
+- 🔭 I’m currently working on **Pursuit curriculum** and **Codewars challenges**
 
 - 🌱 I’m currently learning **JavaScript, Command Line Interface**
 
-- 💬 I have some experience with **Python and Arduino**
+- 💬 I have some experience with **Python** and **Arduino**
 
 - 📫 How to reach me **danmazzilli@pursuit.org || mazzilli.daniel@gmail.com**
 
-- ⚡ Let's chat about **Art | Soccer | Italy | Nature | Dance Music | Puzzles**
+- ⚡ Let's chat about **Art | Soccer | Italia | Nature | Dance Music | Puzzles**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
