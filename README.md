@@ -1,6 +1,6 @@
 <h1 align="center">Benvenuti!</h1>
-<h1 align="center">Ciao, sono Daniel Mazzilli</h1>
-<h3 align="center">Full Stack Web Developer in the making</h3>
+<h2 align="center">Ciao, sono Daniel Mazzilli</h2>
+<h2 align="center">Full Stack Web Developer in the making</h2>
 
 - 🔭 I’m currently working on **Pursuit curriculum** and **Codewars challenges**
 
