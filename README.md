@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Pursuit curriculum**, **portfolio projects**, and **Codewars challenges**
 
-- 🌱 I’m currently learning **JavaScript**, **Command Line Interface**, **React**
+- 🌱 I’m currently learning **React**, **Front End Web Development**, **JavaScript**, **Command Line Interface**
 
 - 💬 I have some experience with **Python** and **Arduino**
 
