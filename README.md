@@ -4,13 +4,13 @@
 
 - 🔭 I’m currently working on **Pursuit curriculum**, **portfolio projects**, and **Codewars challenges**
 
-- 🌱 I’m currently learning **React**, **Front End Web Development**, **JavaScript**, **Command Line Interface**
+- 🌱 I’m currently learning **PostgreSQL**, **Express**, **Back End Web Development**, **React**, **Front End Web Development**, **JavaScript**, **Command Line Interface**
 
-- 💬 I have some experience with **Python** and **Arduino**
+- 💬 I have some past experience with **Python** and **Arduino**
 
 - 📫 How to reach me **danmazzilli@pursuit.org || mazzilli.daniel@gmail.com**
 
-- ⚡ Let's chat about **Art | Soccer | Italia | Nature | Dance Music | Puzzles**
+- ⚡ Let's chat about **Art | Soccer | Italia | Cooking/Baking | Nature | Electronic Music | Puzzles**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
