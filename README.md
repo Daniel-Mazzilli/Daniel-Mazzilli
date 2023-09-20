@@ -2,11 +2,11 @@
 <h2 align="center">Ciao, sono Daniel Mazzilli</h2>
 <h2 align="center">Full Stack Web Developer in the making</h2>
 
-- 🔭 I’m currently working on **Pursuit curriculum**, **portfolio projects**, and **Codewars challenges**
+- 🔭 I’m currently working on **portfolio projects**, and **Codewars and Leetcode challenges**
 
-- 🌱 I’m currently learning **PostgreSQL**, **Express**, **Back End Web Development**, **React**, **Front End Web Development**, **JavaScript**, **Command Line Interface**
+- 🌱 Plannint to learn **TypeScript** 
 
-- 💬 I have some past experience with **Python** and **Arduino**
+- 💬 Ask me about **PostgreSQL**, **Express**, **Back End Web Development**, **React**, **Front End Web Development**, **JavaScript**, **Python** and **Arduino**
 
 - 📫 How to reach me **danmazzilli@pursuit.org || mazzilli.daniel@gmail.com**
 
