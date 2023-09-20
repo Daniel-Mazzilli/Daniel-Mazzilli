@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **danmazzilli@pursuit.org || mazzilli.daniel@gmail.com**
 
-- ⚡ Let's chat about **Art | Soccer | Italia | Cooking/Baking | Nature | Electronic Music | Puzzles**
+- ⚡ Let's chat about **Art | Soccer | Italia | Cooking/Baking | Traveling | Electronic Music | Puzzles**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
